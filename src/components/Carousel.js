@@ -1,4 +1,4 @@
-import react from 'react';
+
 
  function Carousel() {
    const banner1='https://assets-persist.lovart.ai/agent_images/da262035-b71a-471a-a5c0-7ddc77426fb9.jpg'

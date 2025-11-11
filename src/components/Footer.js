@@ -17,16 +17,16 @@ function Footer() {
      
       <div class="col-lg-6 col-md-12 mb-4 mb-md-0 text-center">
         <h5 class="text-uppercase mb-3">Follow Us</h5>
-        <a href="https://instagram.com" className="btn btn-outline-light btn-floating m-1" target="_blank">
+        <a href="https://instagram.com" rel="noreferrer" className="btn btn-outline-light btn-floating m-1" target="_blank">
           <i class="fab fa-instagram"></i>
         </a>
-        <a href="https://twitter.com" className="btn btn-outline-light btn-floating m-1" target="_blank">
+        <a href="https://twitter.com" rel="noreferrer" className="btn btn-outline-light btn-floating m-1" target="_blank">
           <i class="fab fa-twitter"></i>
         </a>
-        <a href="https://wa.me/1234567890" className="btn btn-outline-light btn-floating m-1" target="_blank">
+        <a href="https://wa.me/1234567890" rel="noreferrer" className="btn btn-outline-light btn-floating m-1" target="_blank">
           <i class="fab fa-whatsapp"></i>
         </a>
-        <a href="https://youtube.com" className="btn btn-outline-light btn-floating m-1" target="_blank">
+        <a href="https://youtube.com" rel="noreferrer" className="btn btn-outline-light btn-floating m-1" target="_blank">
           <i class="fab fa-youtube"></i>
         </a>
       </div>
